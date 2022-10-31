@@ -514,7 +514,7 @@ img{
     transform: translate(6px,-7px);
 }
 .qualification [data-content]{
-    display: none;
+    display: block;
 }
 .qualification__active[data-content]{
     display: block;
